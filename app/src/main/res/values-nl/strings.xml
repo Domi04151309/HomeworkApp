@@ -34,9 +34,9 @@
     <string name="pref_theme_summary">Pas het uiterlijk van de app aan</string>
     <string name="pref_planner">Planner</string>
     <string name="pref_edit_text">Expertmodus</string>
-    <string name="pref_edit_text_summary">Pas de JSON-string handmatig aan</string>
-    <string name="pref_reset">Standaardwaarden van JSON-string</string>
-    <string name="pref_reset_summary">Herstel de standaardwaarden van de JSON-string en verwijder alle taken</string>
+    <string name="pref_edit_text_summary">Pas de json-tekenreeks handmatig aan</string>
+    <string name="pref_reset">Standaardwaarden van json-tekenreeks</string>
+    <string name="pref_reset_summary">Herstel de standaardwaarden van de json-tekenreeks en verwijder alle taken</string>
     <string name="pref_reset_question">Weet je zeker dat je wilt doorgaan?</string>
     <string name="pref_reset_toast">Standaardwaarden teruggezet</string>
     <string name="pref_info">Informatie</string>
@@ -46,7 +46,7 @@
         <item>Licht thema</item>
         <item>Donker thema</item>
         <item>Zwart thema</item>
-        <item>Systeem thema</item>
+        <item>Systeemthema</item>
     </string-array>
 
     <string name="about">Over</string>
